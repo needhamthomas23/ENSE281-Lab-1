@@ -1,3 +1,0 @@
--Merging
--Branches
--Git vocabulary
